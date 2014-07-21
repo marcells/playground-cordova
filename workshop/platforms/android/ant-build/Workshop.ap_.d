@@ -108,6 +108,11 @@ D:\Git\playground-cordova\workshop\platforms\android\assets\www\lib\jquery.js \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\lib\pageslider.js \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\lib\router.js \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.device \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.dialogs \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\notification.js \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\plugins\org.apache.cordova.dialogs\www\android\notification.js \
 D:\Git\playground-cordova\workshop\platforms\android\ant-build\AndroidManifest.xml \

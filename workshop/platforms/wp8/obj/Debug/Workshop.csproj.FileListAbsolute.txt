@@ -1,0 +1,15 @@
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\Background.png
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\de.spies.workshop.dll
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\de.spies.workshop.pdb
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\Git\playground-cordova\workshop\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\App.g.cs
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.dialogs\NotificationBox.g.cs
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\de.spies.workshop.g.resources
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\de.spies.workshop.dll
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\de.spies.workshop.pdb
+D:\Git\playground-cordova\workshop\platforms\wp8\obj\Debug\XapCacheFile.xml
