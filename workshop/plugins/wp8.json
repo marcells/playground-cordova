@@ -23,6 +23,10 @@
                         {
                             "xml": "<feature name=\"Contacts\"><param name=\"wp-package\" value=\"Contacts\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Camera\"><param name=\"wp-package\" value=\"Camera\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -40,6 +44,14 @@
                         },
                         {
                             "xml": "<Capability Name=\"ID_CAP_CONTACTS\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_ISV_CAMERA\" />",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_MEDIALIB_PHOTO\" />",
                             "count": 1
                         }
                     ]
@@ -61,6 +73,9 @@
             "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
         },
         "org.apache.cordova.contacts": {
+            "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
+        },
+        "org.apache.cordova.camera": {
             "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
         }
     },

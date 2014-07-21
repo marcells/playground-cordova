@@ -243,6 +243,9 @@
         <Compile Include="Plugins\org.apache.cordova.contacts\ContactPickerTask.cs" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Plugins\org.apache.cordova.camera\Camera.cs" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Include="www\assets\css\images\ic_action_add.png" />
     </ItemGroup>
     <ItemGroup>
@@ -442,6 +445,18 @@
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\lib\router.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.camera\www\Camera.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.camera\www\CameraConstants.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.camera\www\CameraPopoverHandle.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.camera\www\CameraPopoverOptions.js" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\plugins\org.apache.cordova.console\www\console-via-logger.js" />
