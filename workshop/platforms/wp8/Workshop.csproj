@@ -383,6 +383,18 @@
         <Content Include="www\js\app.js" />
     </ItemGroup>
     <ItemGroup>
+        <Content Include="www\js\EmployeeListView.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\EmployeeView.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\HomeView.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\js\services\EmployeeListView.js" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Include="www\js\services\json\EmployeeService.js" />
     </ItemGroup>
     <ItemGroup>
