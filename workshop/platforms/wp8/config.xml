@@ -9,6 +9,9 @@
     <feature name="Notification">
         <param name="wp-package" value="Notification" />
     </feature>
+    <feature name="Contacts">
+        <param name="wp-package" value="Contacts" />
+    </feature>
     <name>Workshop</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
