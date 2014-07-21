@@ -93,7 +93,11 @@ D:\Git\playground-cordova\workshop\platforms\android\assets\www\assets\ratchet\f
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\assets\ratchet\fonts\ratchicons.ttf \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\assets\ratchet\fonts\ratchicons.woff \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\app.js \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\EmployeeListView.js \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\EmployeeView.js \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\HomeView.js \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\services \
+D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\services\EmployeeListView.js \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\services\json \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\services\localstorage \
 D:\Git\playground-cordova\workshop\platforms\android\assets\www\js\services\memory \

@@ -221,6 +221,9 @@
         <Content Include="Plugins\org.apache.cordova.dialogs\notification-beep.wav" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Plugins\org.apache.cordova.geolocation\Geolocation.cs" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Include="www\assets\css\images\ic_action_add.png" />
     </ItemGroup>
     <ItemGroup>

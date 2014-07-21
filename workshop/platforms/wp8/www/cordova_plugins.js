@@ -34,7 +34,8 @@ module.exports.metadata =
 {
     "org.apache.cordova.console": "0.2.9",
     "org.apache.cordova.device": "0.2.10",
-    "org.apache.cordova.dialogs": "0.2.8"
+    "org.apache.cordova.dialogs": "0.2.8",
+    "org.apache.cordova.geolocation": "0.3.8"
 }
 // BOTTOM OF METADATA
 });

@@ -29,6 +29,10 @@
                         {
                             "xml": "<Capability Name=\"ID_CAP_IDENTITY_DEVICE\" />",
                             "count": 1
+                        },
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_LOCATION\" />",
+                            "count": 1
                         }
                     ]
                 }
@@ -43,6 +47,9 @@
             "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
         },
         "org.apache.cordova.dialogs": {
+            "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
+        },
+        "org.apache.cordova.geolocation": {
             "PACKAGE_NAME": "{FD24D41D-1487-42BB-A9CC-B785BF46DB6C}"
         }
     },
